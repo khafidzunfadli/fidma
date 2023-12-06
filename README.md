@@ -1,2 +1,3 @@
-# aplikasi
-Aplikasi Khafidzun Fadli
+# fidma
+Sistem Manajemen Dropship
+Sistem Monitoring Toko
